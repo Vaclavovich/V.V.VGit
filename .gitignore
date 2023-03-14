@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+MyFiirstStudiV.V.V/.vs/
+MyFiirstStudiV.V.V/MyFiirstStudiV.V.V.sln
+MyFiirstStudiV.V.V/MyFiirstStudiV.V.V/obj/
